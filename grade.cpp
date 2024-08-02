@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main(){
+int main(){
 	int  student = 100;
 	
 	if(student >= 90 && student <=100){
@@ -16,7 +16,7 @@ void main(){
 		printf("B2");		
 	} 
 			else if(student >= 50){
-			}
+			
 		printf("C1");		
 	} 
 			else if(student >= 40){
